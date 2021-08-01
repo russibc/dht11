@@ -1,4 +1,4 @@
-You can read this in [English (EN)](https://github.com/russibc/dht11/blob/main/README.md) or [Portuguese (PT-BR)](https://github.com/russibc/dht11/blob/main/README.ptbr.md).
+You can read this in [English (EN)](https://github.com/russibc/dht11/blob/main/README.md) or [Portuguese (PT-BR)](https://github.com/russibc/dht11/blob/main/README.pt.md).
 
 # DHT11 Sensor Read for NodeMCU (ESP-12E)
 
