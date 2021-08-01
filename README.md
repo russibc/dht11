@@ -1,6 +1,6 @@
-# DHT11 Sensor Read for NodeMCU (ESP-12E)
+You can read this in [English (EN)](https://github.com/russibc/dht11/blob/main/README.md) or [Portuguese (PT-BR)](https://github.com/russibc/dht11/blob/main/README.ptbr.md).
 
-This project was made using Arduino IDE.
+# DHT11 Sensor Read for NodeMCU (ESP-12E)
 
 ## :warning: Before running the code, follow this steps
 
