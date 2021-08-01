@@ -15,6 +15,8 @@ On `Additional Boards Manager URLs` paste this link:
 
 Open `Tools` menu > `Board` > `Board Manager`.
 
+Install version `2.7.4` of library `esp8266` by Esp8266 Community.
+
 ### Step 2: Install libraries
 
 Open `Sketch` menu > `Preferences`. 
