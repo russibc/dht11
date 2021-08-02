@@ -2,6 +2,10 @@ Você pode ler esse texto em [Inglês (EN)](https://github.com/russibc/dht11/blo
 
 # Leitura de dados do DHT11 usando NodeMCU (ESP-12E)
 
+<div align="center">
+  <img width="50%" height="50%" src="schema.png">
+</div> 
+
 ## :warning: Antes de executar o código, siga estes passos
 
 ### Step 1: Inclua o ESP8266 no gerenciador de bibliotecas
