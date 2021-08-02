@@ -2,6 +2,10 @@ You can read this in [English (EN)](https://github.com/russibc/dht11/blob/main/R
 
 # DHT11 Sensor Read for NodeMCU (ESP-12E)
 
+<div align="center">
+  <img width="50%" height="50%" src="schema.png">
+</div> 
+
 ## :warning: Before running the code, follow this steps
 
 ### Step 1: Include ESP8266 on library manager
